@@ -4,7 +4,7 @@ public class testMonom {
 
 	public static void main(String[] args) {
 		/**
-		 * testing monom constructor
+		 * testing monom constructor.
 		 */
 		Monom a1 = new Monom(-2.3 , 1);
 		System.out.println("Monom constructor: " + a1); 
